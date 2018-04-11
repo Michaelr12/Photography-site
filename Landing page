@@ -1,0 +1,132 @@
+
+
+
+	<title>Ryan Jensen Photography</title>
+
+<link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+
+<link rel="stylesheet" type="text/css" href="jensen.css">
+
+<script type="text/javascript" src="jensen.js"></script>
+
+<link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+
+    
+
+</head>
+<body>
+
+<nav class="navbar navbar-default">
+		<div class="container">
+	<div class="navbar-header">
+		<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+		<a href="Ryanportfolio.html" class="navbar-brand">RJ</a>
+	</div>
+	  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+		<ul class="nav navbar-nav">
+	
+	</ul>
+	<ul class="nav navbar-nav navbar-right">
+		<li><a href="about.html">About</a></li>
+			<li><a href="contact.html">Contact</a></li>
+			<li><a href="album.html">Albums</a></li>
+	</ul>
+	</div>
+</div>
+</nav>
+
+<h1>Ryan Jensen Photography</h1>
+
+<div id = "myCarousel" class = "carousel">
+
+	<ul class = "carousel-indicators">
+		<li data-target = "#myCarousel" data-slide-to = "0" class = "active"></li>
+		<li data-target = "#myCarousel" data-slide-to = "1"></li>
+		<li data-target = "#myCarousel" data-slide-to = "2"></li>
+		<li data-target = "#myCarousel" data-slide-to = "3"></li>
+		
+	</ul>
+
+	<div class = "carousel-inner">
+
+		<div class = "item active">
+			<img src="pier.jpg" alt = "pier" class = "img-responsive">
+	</div>
+
+		<div class = "item">
+			<img src = "cove.jpg" alt = "beach" class = "img-responsive">
+	</div>
+	
+
+	<div class = "item">
+			<img src = "coast.jpg" alt = "beach" class = "img-responsive">
+	</div>
+
+<div class = "item">
+			<img src = "coronado.jpeg" alt = "beach" class = "img-responsive">
+	</div>
+
+
+</div>
+
+	<a class = "carousel-control left" href = "#myCarousel" data-slide = "prev">
+		<span class = "icon-prev"></span>
+		</a>
+
+	<a class = "carousel-control right" href="#myCarousel" data-slide = "next">
+		<span class = "icon-next"></span>
+		</a>
+</div>
+
+<hr>
+
+<h1>Albums</h1>
+
+<div>
+<img class="img" src="http://c1.staticflickr.com/9/8450/8026519634_f33f3724ea_b.jpg">
+<img class="img" src="http://c2.staticflickr.com/8/7218/7209301894_c99d3a33c2_h.jpg">
+<img class="img" src="http://c2.staticflickr.com/8/7231/6947093326_df216540ff_b.jpg">
+
+
+
+<img class="img" src="http://c1.staticflickr.com/9/8788/17367410309_78abb9e5b6_b.jpg">
+<img class="img" src="http://c2.staticflickr.com/6/5814/20700286354_762c19bd3b_b.jpg">
+<img class="img" src="http://c2.staticflickr.com/6/5647/21137202535_404bf25729_b.jpg">
+
+
+<img class="img" src="http://c2.staticflickr.com/6/5588/14991687545_5c8e1a2e86_b.jpg">
+<img class="img" src="http://c2.staticflickr.com/4/3888/14878097108_5997041006_b.jpg">
+<img class="img" src="http://c2.staticflickr.com/8/7579/15482110477_0b0e9e5421_b.jpg">
+
+
+</div>
+
+
+<span><hr></span>
+
+<h2>About</h2>
+
+<div class="p">
+<p>Bacon ipsum dolor amet bresaola capicola short ribs buffalo pork chop, tail burgdoggen porchetta prosciutto brisket salami filet mignon fatback ham hock. Swine meatloaf pork chop ham kevin. Salami strip steak t-bone biltong ground round. Landjaeger filet mignon short loin pork ground round strip steak flank doner burgdoggen. Flank pork chop capicola leberkas short ribs pork loin. </p>
+
+<p>Chuck jowl ham hock corned beef beef ribs chicken frankfurter. Kielbasa rump pancetta, bacon tri-tip hamburger filet mignon. Shank sirloin chicken turkey leberkas alcatra salami short loin pork belly boudin venison. Meatball pork chop chuck, pastrami pancetta brisket ham hock buffalo jowl filet mignon tail turducken picanha. Chuck porchetta hamburger, alcatra beef ribs tail salami tongue. </p>
+
+<p>Venison biltong frankfurter kevin beef ribs spare ribs andouille drumstick corned beef tri-tip. Ham cow sirloin andouille bacon capicola alcatra kielbasa tongue shankle ham hock. Turkey jowl short ribs, tenderloin jerky andouille hamburger meatball chicken leberkas porchetta t-bone pork chop. Venison leberkas hamburger boudin pig meatball strip steak rump picanha. Meatloaf turducken pork belly, sirloin corned beef burgdoggen spare ribs prosciutto pancetta shankle flank t-bone meatball short ribs. </p>
+
+<p>Beef sausage brisket ball tip. Pastrami ground round pig swine picanha pork chop drumstick buffalo. Short loin flank porchetta, pork belly ball tip meatloaf beef sausage landjaeger ham hock filet mignon beef ribs shank. Swine t-bone bacon, alcatra shoulder chuck prosciutto spare ribs flank. </p>
+
+<p>Ground round turkey shank, jowl leberkas tri-tip frankfurter ribeye ball tip shankle pork belly brisket. Strip steak shankle spare ribs t-bone buffalo. Bresaola beef short ribs buffalo, brisket sausage landjaeger kevin short loin pork belly. Sirloin venison pork loin frankfurter tongue jowl, landjaeger boudin cupim alcatra.</p>
+</div>
+
+
+
+<script src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
